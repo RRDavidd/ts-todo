@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+ul li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+
+}
+
+ul li input[type="checkbox"] {
+  margin-right: 10px;
+
+}
